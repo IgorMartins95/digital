@@ -1,2 +1,2 @@
 # digital
-1ª entrega challenge - Digital
+Entrega challenge - Digital
